@@ -1,0 +1,146 @@
+[
+    {
+        "startDate": "2016-12-19",
+        "endDate": "",
+        "role": "Member of Technical Staff - 3",
+        "org": "VMware",
+        "orgLogo": {
+            "url": "/assets/vmware.png",
+            "width": "120",
+            "height": "30"
+        },
+        "location": "Bengaluru, India",
+        "keyPoints": [
+            "Site Reliability Engineer for VMware Cloud on AWS",
+            "Designing and Develop new features and micro services that can scale and are extensible",
+            "Use of Design Patterns for efficient design",
+            "Participate in Borathons (internal name for Hackathons) and RADIO(research work)",
+            "Build new Docker images and play around with them",
+            "Optimise existing implementations"
+        ],
+        "techs": [
+            "Python3",
+            "Angular",
+            "Java",
+            "SpringBoot",
+            "VMware Clarity",
+            "Serverless",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "AWS",
+            "VMC on AWS",
+            "Problem Solving",
+            "Scrum Master",
+            "Design Patterns"
+        ],
+        "achievements": [
+            {
+                "description": "Presented a talk in SRECon 19 Asia Pacific - Enhance Your Python Code Beyond GIL",
+                "links": [
+                    "https://www.usenix.org/conference/srecon19asia/presentation/bhojwani"
+                ]
+            },
+            {
+                "description": "Certificate of Oustanding Recognition (Business Unit level award given quarterly to one project)"
+            },
+            {
+                "description": "Certificate of Participation in Borathon - K8s based solution to share private resources"
+            },
+            {
+                "description": "2nd Rank in CPBU Hackathon - Implement serverless computing and showcase Functions-as-a-service at scale"
+            }
+        ]
+    },
+    {
+        "startDate": "2015-10-18",
+        "endDate": "2016-12-16",
+        "role": "Senior Software Engineer",
+        "org": "GoPigeon (now Narvar)",
+        "orgLogo": {
+            "url": "/assets/gopigeon.png",
+            "width": "120",
+            "height": "40"
+        },
+        "location": "Bengaluru, India",
+        "keyPoints": [
+            "Design and Development of main B to B product for Ecom Shipments and Surface Shipments, build on top of Django, AngularJS and MySQL and hosted on AWS technology stack.",
+            "Setting up RabbitMQ for queuing and Celery as task manager for async operations.",
+            "Built DevOps dashboard to monitor & perform certain actions on different servers like App Servers, Queuing Server and Consumers.",
+            "Introduced rate-limiting/throttling on exposed REST APIs using Django-Ratelimit"
+        ],
+        "techs": [
+            "Python2.7",
+            "Python3",
+            "Django",
+            "MySQL",
+            "AWS",
+            "EC2",
+            "AWS RDS",
+            "S3",
+            "NewRelic"
+        ],
+        "achievements": [
+            {
+                "description": "Contributed an improvement in Django-Ratelimit(Open Source)",
+                "links": ["https://github.com/jsocol/django-ratelimit/pull/100"]
+            }
+        ]
+    },
+    {
+        "startDate": "2014-10-17",
+        "endDate": "2015-10-15",
+        "role": "Software Engineer",
+        "org": "Practo",
+        "orgLogo": {
+            "url": "/assets/practo.svg",
+            "width": "80",
+            "height": "40"
+        },
+        "location": "Bengaluru, India",
+        "keyPoints": [
+            "Majorly worked as Backend Engineer and minorly in Frontend",
+            "Worked on features like Merge Profiles, involving huge data change and maintaining consistency.",
+            "Building a Micro-Service, called Audits-as-service, to store the data change & meta-data."
+        ],
+        "techs": [
+            "Symfony2",
+            "PHP",
+            "MySQL",
+            "Python"
+        ],
+        "achievements": [
+            {
+                "description": "Was offered position of Team Lead",
+                "links": []
+            }
+        ]
+    },
+    {
+        "startDate": "2014-07-07",
+        "endDate": "2014-10-14",
+        "role": "Software Development Engineer - 1",
+        "org": "Commonfloor",
+        "orgLogo": {
+            "url": "/assets/commonfloor.png",
+            "width": "42",
+            "height": "20"
+        },
+        "location": "Bengaluru, India",
+        "keyPoints": [
+            "Mostly Backend Development in PHP Zend Framework",
+            "Fix bugs and Add new features"
+        ],
+        "techs": [
+            "PHP",
+            "Zend",
+            "MySQL"
+        ],
+        "achievements": [
+            {
+                "description": "Spot Award for Quickly Resolving Production Bugs",
+                "links": []
+            }
+        ]
+    }
+]

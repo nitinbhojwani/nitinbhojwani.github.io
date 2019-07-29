@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Open Source Contribution in DjangoRatelimit",
+        "links": [
+            "https://github.com/jsocol/django-ratelimit/pull/100"
+        ],
+        "description": "Add time-left for reset of counter along with count & limit in ratelimit response",
+        "keyPoints": [
+            "Add count of use of a ratelimited-api(or group of apis) along with time-left in reset of counter in response"
+        ],
+        "startDate": "2016-02-22",
+        "endDate": "2016-02-23",
+        "techs": [
+            "Python3",
+            "MemCache",
+            "DjangoRatelimit"
+        ],
+        "labels": [
+            "opensource"
+        ]
+    },
+    {
+        "name": "PEP8 Checker",
+        "links": [
+            "https://github.com/nitinbhojwani/pep8-checker"
+        ],
+        "description": "Python script to check syntax and lint the python code based on PEP8 standard",
+        "keyPoints": [
+            "Auto-correct according to PEP8 standard, removes trailing whitespaces from code and remove .pyc files"
+        ],
+        "startDate": "2017-11-01",
+        "endDate": "2017-11-30",
+        "techs": [
+            "Python",
+            "Python3",
+            "Fabric",
+            "Flake8",
+            "AutoPep8"
+        ],
+        "labels": []
+    },
+    {
+        "name": "Medico Inspect",
+        "links": [],
+        "description": "Get instant details of prescribed medicines",
+        "keyPoints": [
+            "Curious Bob falls ILL and buys PILLS as prescibed by doctor. Now, when he gets BILL from medical, he wants to know the description of medicine, it's side effects, food precautions and drugs-to-avoid. So, he takes a pic of BILL and uploads to Medico Inspect. Medico Inspect performs fine OCR and extracts PILL names and then based on Names, extracts relevant information from DB and hence satisfies Curious Bob's curiosity and at same time helps in avoiding the possible harm to Bob."
+        ],
+        "startDate": null,
+        "endDate": null,
+        "techs": [
+            "PHP",
+            "Symfony2"
+        ]
+    },
+    {
+        "name": "MicroLend",
+        "links": [
+            "https://github.com/nitinbhojwani/microlend"
+        ],
+        "description": "A Platform Used for Micro Lending",
+        "keyPoints": [
+            "This project involves User Authentication, Lending, Repayment And Payu Integration for the online payments."
+        ],
+        "startDate": null,
+        "endDate": null,
+        "techs": [
+            "PHP",
+            "Symfony2",
+            "MySQL",
+            "DB Design",
+            "Problem Solving"
+        ]
+    }
+]

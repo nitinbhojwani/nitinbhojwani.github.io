@@ -1,0 +1,64 @@
+[
+    {
+        "org": "Birla Institute of Technology and Science",
+        "orgLink": "https://www.bits-pilani.ac.in/",
+        "location": "Pilani, India",
+        "affiliation": "Autonomous",
+        "certificate": "Post Graduate Certificate",
+        "specialization": "Big Data Engineering",
+        "startDate": "2018-03-01",
+        "endDate": "2019-06-30",
+        "score": null,
+        "outOf": null,
+        "keyPoints": [
+            "Hands-on experience with Hadoop Map Reduce and HDFS",
+            "Worked on different projects in Spark, Kafka, Pig, Oozie"
+        ],
+        "orgLogo": {
+            "url": "/assets/bits-pilani.png",
+            "width": "69",
+            "height": "63"
+        }
+    },
+    {
+        "org": "National Institute of Technology",
+        "orgLink": "http://nitrr.ac.in",
+        "location": "Raipur, India",
+        "affiliation": "Autonomous",
+        "certificate": "Bachelor of Technology",
+        "specialization": "Information Technology",
+        "startDate": "2010-05-20",
+        "endDate": "2014-05-10",
+        "score": 8.7,
+        "outOf": 10,
+        "keyPoints": [
+            "Passed with Honours",
+            "Participated and Organised in Techno-Cultural Fests"
+        ],
+        "orgLogo": {
+            "url": "/assets/nitrr.gif",
+            "width": "60",
+            "height": "75"
+        }
+    },
+    {
+        "org": "Mennonite English Senior Secondary School",
+        "orgLink": "http://www.mesdhamtari.in/",
+        "location": "Dhamtari, India",
+        "affiliation": "Central Board of Secondary Education",
+        "certificate": "Senior Secondary School",
+        "specialization": "Mathematics (Science)",
+        "startDate": "2008-06-15",
+        "endDate": "2010-04-10",
+        "score": 84,
+        "outOf": 100,
+        "keyPoints": [
+            "Scored 1st position in the classroom"
+        ],
+        "orgLogo": {
+            "url": "/assets/messs.png",
+            "width": "70",
+            "height": "70"
+        }
+    }    
+]

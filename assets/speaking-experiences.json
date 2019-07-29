@@ -1,0 +1,54 @@
+[
+    {
+        "topic": "Angular Hands-On",
+        "organiser": "WomenWhoCode Meetup",
+        "location": "Bengaluru, India",
+        "date": "2019-07-26",
+        "durationInHours": 2,
+        "links": [],
+        "keyPoints": [
+            "Introduction to Angular",
+            "Why Angular",
+            "TypeScript",
+            "Building Blocks of Angular",
+            "Clarity Design System - VMware's Open Sourced",
+            "Angular Setup on local",
+            "Build an Angular application"
+        ],
+        "youtubeVideo": null,
+        "slidesDeck": "https://www.slideshare.net/NitinBhojwani/meetup-for-angular-workshop"
+    },
+    {
+        "topic": "Enhance Your Python Code Beyond GIL",
+        "organiser": "SRECon 2019 Asia/Pacific",
+        "location": "Singapore",
+        "date": "2019-06-12",
+        "durationInHours": 0.5,
+        "links": [
+            "https://www.usenix.org/conference/srecon19asia/presentation/bhojwani"
+        ],
+        "keyPoints": [
+            "Global Interpreter Lock in Python",
+            "Different ways to achieve parallelism beyond GIL",
+            "Look into Python MultiThreading, MultiProcessing and AsyncIO"
+        ],
+        "youtubeVideo": {
+            "link": "https://www.youtube.com/embed/mAy_QGr0QoY?start=542"
+        },
+        "slidesDeck": "https://www.usenix.org/sites/default/files/conference/protected-files/srecon19apac_slides_bhojwani.pdf"
+    },
+    {
+        "topic": "Data Analytics using Python",
+        "organiser": "NIE IEEE(Adroit 2018)",
+        "location": "Mysore",
+        "date": "2018-10-05",
+        "durationInHours": 4,
+        "links": [],
+        "keyPoints": [
+            "Basics of Python in Jupyter Notebook",
+            "Basics of Data Analytics in Python using pandas and numpy"
+        ],
+        "youtubeVideo": null,
+        "slidesDeck": null
+    }
+]
