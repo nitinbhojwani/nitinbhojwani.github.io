@@ -1,7 +1,41 @@
 [
     {
-        "startDate": "2016-12-19",
+        "startDate": "2019-07-31",
         "endDate": "",
+        "role": "Senior Member of Technical Staff",
+        "org": "VMware",
+        "orgLogo": {
+            "url": "/assets/vmware.png",
+            "width": "120",
+            "height": "30"
+        },
+        "location": "Bengaluru, India",
+        "keyPoints": [
+            "Designing and Develop new features and micro services that can scale and are extensible",
+            "Use of Design Patterns for efficient design",
+            "Optimise existing implementations"
+        ],
+        "techs": [
+            "StackStorm",
+            "Python3",
+            "Angular",
+            "Java",
+            "SpringBoot",
+            "VMware Clarity",
+            "Serverless",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "AWS",
+            "VMC on AWS",
+            "Problem Solving",
+            "Scrum Master",
+            "Design Patterns"
+        ]
+    },
+    {
+        "startDate": "2016-12-19",
+        "endDate": "2019-07-31",
         "role": "Member of Technical Staff - 3",
         "org": "VMware",
         "orgLogo": {
