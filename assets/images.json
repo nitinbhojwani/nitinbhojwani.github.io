@@ -1,5 +1,11 @@
 [
     {
+        "imageUrl": "/assets/certificate-critical-thinking.png",
+        "caption": "LinkedIn Learning - Critical Thinking",
+        "alt": "Certificate of Completion - Critical Thinking",
+        "detail": ""
+    },
+    {
         "imageUrl": "/assets/certificate-8i5ob83g.png",
         "caption": "PG Program in Big Data Engineering",
         "alt": "Certificate - PG Program in Big Data Engineering",

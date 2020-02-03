@@ -11,7 +11,8 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Designing and Develop new features and micro services that can scale and are extensible",
+            "Designing/Developing services to ensure the reliability of SDDC offered as a service as VMware Cloud on AWS",
+            "Build features and micro services that can scale and are extensible",
             "Use of Design Patterns for efficient design",
             "Optimise existing implementations"
         ],
@@ -48,7 +49,7 @@
             "Site Reliability Engineer for VMware Cloud on AWS",
             "Designing and Develop new features and micro services that can scale and are extensible",
             "Use of Design Patterns for efficient design",
-            "Participate in Borathons (internal name for Hackathons) and RADIO(research work)",
+            "Participate in Borathons (internal name for Hackathons) and RADIO(internal platform to share research work)",
             "Build new Docker images and play around with them",
             "Optimise existing implementations"
         ],
