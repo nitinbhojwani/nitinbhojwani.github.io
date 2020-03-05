@@ -1,5 +1,29 @@
 [
     {
+        "imageUrl": "/assets/certificate-learning-graphQL.png",
+        "caption": "LinkedIn Learning - Learning GraphQL",
+        "alt": "Certificate of Completion - Learning GraphQL",
+        "detail": ""
+    },
+    {
+        "imageUrl": "/assets/certificate-learning-rxjs.png",
+        "caption": "LinkedIn Learning - Learning RxJS",
+        "alt": "Certificate of Completion - Learning RxJS",
+        "detail": ""
+    },
+    {
+        "imageUrl": "/assets/certificate-communication-foundations-2.png",
+        "caption": "LinkedIn Learning - Communication Foundations",
+        "alt": "Certificate of Completion - Communication Foundations",
+        "detail": ""
+    },
+    {
+        "imageUrl": "/assets/certificate-microservices-asynchronous-messaging.png",
+        "caption": "LinkedIn Learning - Microservices Asynchronous Messaging",
+        "alt": "Certificate of Completion - Microservices Asynchronous Messaging",
+        "detail": ""
+    },
+    {
         "imageUrl": "/assets/certificate-critical-thinking.png",
         "caption": "LinkedIn Learning - Critical Thinking",
         "alt": "Certificate of Completion - Critical Thinking",

@@ -11,10 +11,11 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Designing/Developing services to ensure the reliability of SDDC offered as a service as VMware Cloud on AWS",
-            "Build features and micro services that can scale and are extensible",
-            "Use of Design Patterns for efficient design",
-            "Optimise existing implementations"
+            "Discuss, Design and Develop services to ensure the reliability of SDDC offered as a service as VMware Cloud on AWS",
+            "Build services that can scale and are extensible",
+            "Mentor Junior Engineers and Interns",
+            "Be Scrum Master for the Scrum Board",
+            "Maintain and Optimise existing implementations"
         ],
         "techs": [
             "StackStorm",
@@ -46,8 +47,8 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Site Reliability Engineer for VMware Cloud on AWS",
-            "Designing and Develop new features and micro services that can scale and are extensible",
+            "Develop and Maintain different services for internal teams to ensure reliability of VMware Cloud on AWS",
+            "Discuss, Design and Develop new features and micro services that can scale and are extensible",
             "Use of Design Patterns for efficient design",
             "Participate in Borathons (internal name for Hackathons) and RADIO(internal platform to share research work)",
             "Build new Docker images and play around with them",
@@ -84,6 +85,9 @@
             },
             {
                 "description": "2nd Rank in CPBU Hackathon - Implement serverless computing and showcase Functions-as-a-service at scale"
+            },
+            {
+                "description": "Optimised number of api calls and payload exchanged between client and server by factor of 32 by batching tasks status fetch from UI and dependent tasks in backend. This also improved user experience"
             }
         ]
     },
@@ -101,8 +105,9 @@
         "keyPoints": [
             "Design and Development of main B to B product for Ecom Shipments and Surface Shipments, build on top of Django, AngularJS and MySQL and hosted on AWS technology stack.",
             "Setting up RabbitMQ for queuing and Celery as task manager for async operations.",
-            "Built DevOps dashboard to monitor & perform certain actions on different servers like App Servers, Queuing Server and Consumers.",
-            "Introduced rate-limiting/throttling on exposed REST APIs using Django-Ratelimit"
+            "Built DevOps dashboard to monitor & perform actions like upgrade or deployment on different servers like App Servers, Queuing Server and Consumers.",
+            "Introduced rate-limiting/throttling on exposed REST APIs using Django-Ratelimit",
+            "Optimised cost of cloud resources by choosing appropriate EC2-instances  "
         ],
         "techs": [
             "Python2.7",
