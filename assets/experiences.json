@@ -1,7 +1,37 @@
 [
     {
-        "startDate": "2019-07-31",
+        "startDate": "2020-05-18",
         "endDate": "",
+        "role": "Senior Software Engineer",
+        "org": "Atlassian",
+        "orgLogo": {
+            "url": "/assets/atlassian.png",
+            "width": "120",
+            "height": "20"
+        },
+        "location": "India(Remote)",
+        "keyPoints": [
+            "Senior Backend Engineer in Jira Software Roadmaps(Timeline) team(it's a great team based out in Sydney office)",
+            "Handled various crucial features from start to finish.",
+            "Implemented design patterns to simplify error handling throughout the system.",
+            "Aided in enhancing the development cycle of Jira Monolith by setting up a remote development environment as a proof of concept (POC).",
+            "Successfully launched Jira Timeline from Beta to General Availability (GA) for Company Managed Projects.",
+            "Ran experimentation to strategically enable Timeline by default for users, and findings indicated favorable user response 👍"
+        ],
+        "techs": [
+            "SpringBoot",
+            "Kotlin",
+            "Java",
+            "AWS",
+            "Problem Solving",
+            "Design Patterns",
+            "Test Driven Development",
+            "Domain Driven Development"
+        ]
+    },
+    {
+        "startDate": "2019-07-31",
+        "endDate": "2020-05-15",
         "role": "Senior Member of Technical Staff",
         "org": "VMware",
         "orgLogo": {
@@ -11,11 +41,11 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Discuss, Design and Develop services to ensure the reliability of SDDC offered as a service as VMware Cloud on AWS",
-            "Build services that can scale and are extensible",
-            "Mentor Junior Engineers and Interns",
-            "Be Scrum Master for the Scrum Board",
-            "Maintain and Optimise existing implementations"
+            "Contributed to the design, development and maintenance of critical services ensuring the reliability of VMware Cloud on AWS.",
+            "Developed services that could grow and change as needed.",
+            "Helped new engineers and interns learn and grow.",
+            "Led the Scrum team to work effectively.",
+            "Kept improving existing setups to make them work better."
         ],
         "techs": [
             "StackStorm",
@@ -47,12 +77,12 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Develop and Maintain different services for internal teams to ensure reliability of VMware Cloud on AWS",
-            "Discuss, Design and Develop new features and micro services that can scale and are extensible",
-            "Use of Design Patterns for efficient design",
-            "Participate in Borathons (internal name for Hackathons) and RADIO(internal platform to share research work)",
-            "Build new Docker images and play around with them",
-            "Optimise existing implementations"
+            "Engineered and maintained a diverse range of services vital for ensuring the reliability and performance of VMware Cloud on AWS.",
+            "Led discussions, designs, and development efforts for novel features and microservices, emphasizing scalability and extensibility.",
+            "Applied industry-standard Design Patterns to optimize the architecture and efficiency of solutions.",
+            "Actively engaged in internal innovation events such as Borathons (Hackathons) and RADIO (internal platform for research work sharing) to foster creativity and knowledge-sharing.",
+            "Experimentation with new Docker images to enhance system functionality and flexibility.",
+            "Continuously optimized and refined existing implementations to elevate performance and user experience."
         ],
         "techs": [
             "Python3",
@@ -103,11 +133,11 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Design and Development of main B to B product for Ecom Shipments and Surface Shipments, build on top of Django, AngularJS and MySQL and hosted on AWS technology stack.",
-            "Setting up RabbitMQ for queuing and Celery as task manager for async operations.",
-            "Built DevOps dashboard to monitor & perform actions like upgrade or deployment on different servers like App Servers, Queuing Server and Consumers.",
-            "Introduced rate-limiting/throttling on exposed REST APIs using Django-Ratelimit",
-            "Optimised cost of cloud resources by choosing appropriate EC2-instances  "
+            "Directed the design and development of a flagship Business-to-Business (B2B) product tailored for E-commerce and Surface Shipments, leveraging Django, AngularJS, and MySQL technologies on AWS.",
+            "Implemented RabbitMQ for efficient queuing and Celery as a robust task manager to facilitate seamless asynchronous operations.",
+            "Engineered a comprehensive DevOps dashboard enabling real-time monitoring and streamlined actions such as upgrades and deployments across diverse server environments, including App Servers, Queuing Servers, and Consumers.",
+            "Introduced and configured rate-limiting and throttling mechanisms for exposed REST APIs utilizing Django-Ratelimit, bolstering system security and stability.",
+            "Strategically optimized cloud resource costs by meticulously selecting appropriate EC2 instances, ensuring optimal performance while maximizing cost-efficiency."
         ],
         "techs": [
             "Python2.7",
@@ -123,7 +153,9 @@
         "achievements": [
             {
                 "description": "Contributed an improvement in Django-Ratelimit(Open Source)",
-                "links": ["https://github.com/jsocol/django-ratelimit/pull/100"]
+                "links": [
+                    "https://github.com/jsocol/django-ratelimit/pull/100"
+                ]
             }
         ]
     },
@@ -139,9 +171,9 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Majorly worked as Backend Engineer and minorly in Frontend",
-            "Worked on features like Merge Profiles, involving huge data change and maintaining consistency.",
-            "Building a Micro-Service, called Audits-as-service, to store the data change & meta-data."
+            "Primarily focused on backend engineering while also contributing to frontend development tasks.",
+            "Led the implementation of complex features such as Merge Profiles, which entailed substantial data manipulation and meticulous maintenance of data integrity.",
+            "Architected and developed a Micro-Service named Audits-as-a-Service, dedicated to efficiently storing data changes and associated metadata."
         ],
         "techs": [
             "Symfony2",
@@ -168,8 +200,8 @@
         },
         "location": "Bengaluru, India",
         "keyPoints": [
-            "Mostly Backend Development in PHP Zend Framework",
-            "Fix bugs and Add new features"
+            "Primarily contributed in backend development using the PHP Zend Framework.",
+            "Proficiently resolved bugs and implemented new features to enhance platform functionality and user experience."
         ],
         "techs": [
             "PHP",

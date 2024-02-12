@@ -1,5 +1,27 @@
 [
     {
+        "org": "International Institute of Information Technology, Bangalore",
+        "orgLink": "https://www.iiitb.ac.in/",
+        "location": "Bangalore, India",
+        "affiliation": "Autonomous",
+        "certificate": "Post Graduate Diploma",
+        "specialization": "Machine Learning and Artificial Intelligence",
+        "startDate": "2020-03-31",
+        "endDate": "2021-04-12",
+        "score": null,
+        "outOf": null,
+        "keyPoints": [
+            "Hands-on experience with ML libraries in Python - Numpy, Pandas, Matplotlib",
+            "Exploratory Data Analysis / Principal component analysis",
+            "Deep Learning"
+        ],
+        "orgLogo": {
+            "url": "/assets/iiitb.jpg",
+            "width": "69",
+            "height": "63"
+        }
+    },
+    {
         "org": "Birla Institute of Technology and Science",
         "orgLink": "https://www.bits-pilani.ac.in/",
         "location": "Pilani, India",
@@ -50,8 +72,6 @@
         "specialization": "Mathematics (Science)",
         "startDate": "2008-06-15",
         "endDate": "2010-04-10",
-        "score": 84,
-        "outOf": 100,
         "keyPoints": [
             "Scored 1st position in the classroom"
         ],

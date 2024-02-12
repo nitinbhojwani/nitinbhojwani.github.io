@@ -1,5 +1,62 @@
 [
     {
+        "name": "Data Observability Platform",
+        "description": "Platform that provides data quality and observability solution to different lakes at Atlassian.",
+        "keyPoints": [
+            "Checks execution capability for data in Atlassian Data Lake",
+            "Data reconciliation capability for data flowing through different components and landing to data lake"
+        ],
+        "startDate": "2021-05-31",
+        "endDate": "2023-06-01",
+        "techs": [
+            "Databricks",
+            "PySpark",
+            "DBT"
+        ]
+    },
+    {
+        "name": "Atlassian Data Lake",
+        "links": [
+            "https://www.atlassian.com/platform/analytics/what-is-atlassian-data-lake"
+        ],
+        "description": "Atlassian Data Lake provides cross-products access of Atlassian products.",
+        "keyPoints": [
+            "Built components to make the whole solution work",
+            "Built lake connection endpoint for end-to-end secured access of data while querying",
+            "Operational Readiness Initiatives to take it to GA"
+        ],
+        "startDate": "2021-05-31",
+        "endDate": "2023-06-01",
+        "techs": [
+            "Java",
+            "Kotlin",
+            "Spring Boot",
+            "Python",
+            "Flask",
+            "Delta Lake",
+            "Databricks"
+        ]
+    },
+    {
+        "name": "Jira Software Roadmaps",
+        "links": [
+            "https://www.atlassian.com/software/jira/features/roadmaps"
+        ],
+        "description": "Developed few critical features and worked on service reliability to take it to GA for Company-managed projects",
+        "keyPoints": [
+            "Developed few critical features to get it out to GA",
+            "Reliability and service hardening work",
+            "Experimentation on enabling Roadmaps by default for all the existing boards"
+        ],
+        "startDate": "2020-05-18",
+        "endDate": "2021-05-29",
+        "techs": [ 
+            "Java",
+            "Kotlin",
+            "Spring Boot"
+        ]
+    },
+    {
         "name": "Open Source Contribution in DjangoRatelimit",
         "links": [
             "https://github.com/jsocol/django-ratelimit/pull/100"
